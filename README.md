@@ -1,6 +1,6 @@
 # Doodle Scratch
 
-![Doodle Scratch](af2b3d35-66bc-4b9d-bdf8-9e6f3217f54a.png)
+![Doodle Scratch](https://private-user-images.githubusercontent.com/258104884/637187689-7b3d7cec-bfe8-42d6-afe2-5f9c41dcc758.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcwMDU2NzgsIm5iZiI6MTc4NzAwNTM3OCwicGF0aCI6Ii8yNTgxMDQ4ODQvNjM3MTg3Njg5LTdiM2Q3Y2VjLWJmZTgtNDJkNi1hZmUyLTVmOWM0MWRjYzc1OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QyMjIyNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YTQyM2I0ODZiY2Y4YzcwZjJhNWYzMDNmYjdhNzEyNTg4NTAxZDdiMzU5ZDRjMzU0OTRjZjU1OTM1ZWVjODczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.hV0Ze10kRqMLHM3Dn9HzhV_d8EBi4dwjVCRki7u4qhQ)
 
 > A powerful Scratch mod built for creators who want more speed, more control, and way more features.
 
@@ -177,7 +177,7 @@ Doodle Scratch is an independent Scratch modification and is not affiliated with
 
 ## 💜 Credits
 
-Built by **[Your Name]** and the Doodle Scratch community.
+Built by **duderucool/blockfreeubg** and the Doodle Scratch community.
 
 Inspired by the creativity of the Scratch ecosystem and projects that push Scratch beyond its normal limits.
 
