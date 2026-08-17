@@ -94,22 +94,6 @@ Build for production:
 npm run build
 ```
 
-## 📁 Project Structure
-
-```text
-doodle-scratch/
-├── src/
-│   ├── components/
-│   ├── extensions/
-│   ├── playground/
-│   ├── renderer/
-│   └── runtime/
-├── static/
-├── public/
-├── package.json
-└── README.md
-```
-
 ## 🔥 Roadmap
 
 ### Editor
